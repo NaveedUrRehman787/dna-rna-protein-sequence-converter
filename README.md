@@ -12,8 +12,8 @@ This Streamlit app allows you to perform various conversions related to DNA sequ
 
 ## Usage:
 
-    Input your DNA sequence into the provided text box.
-    Choose the desired conversion option from the dropdown menu.
-    Click on the "Convert" button.
-    The app will display the converted sequence in the output section.
-    For DNA to protein conversion, the corresponding amino acid sequence will be shown.
+   - Input your DNA sequence into the provided text box.
+   - Choose the desired conversion option from the dropdown menu.
+   - Click on the "Convert" button.
+   - The app will display the converted sequence in the output section.
+   - For DNA to protein conversion, the corresponding amino acid sequence will be shown.
