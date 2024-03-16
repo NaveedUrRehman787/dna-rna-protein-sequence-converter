@@ -17,3 +17,72 @@ This Streamlit app allows you to perform various conversions related to DNA sequ
    - Click on the "Convert" button.
    - The app will display the converted sequence in the output section.
    - For DNA to protein conversion, the corresponding amino acid sequence will be shown.
+
+## Installation:
+
+```bash
+   git clone https://github.com/NaveedUrRehman787/dna-rna-protein-sequence-converter.git
+```
+
+## Navigate to the file directory
+```bash
+   cd dna-rna-protein-sequence-converter
+```
+## Install the required dependencies using pip.
+```bash
+   pip install -r requirements.txt
+```
+## Run the streamlit
+```bash
+  streamlit run app.py
+```
+## Example
+  - Input the a sequence
+```bash
+  ATGGTCTACATAGCTGGA
+```
+## Outpus
+ ```bash
+ MVYLS
+```
+
+**Note**: Ensure that your DNA sequences consist of valid nucleotide bases (A, T, G, C) and are in the correct format.
+
+**Contributing**:
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request on the GitHub repository.
+
+**License**:
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+**Contact**:
+For any inquiries or assistance, please contact naveedurrehman787@gmail.com.
+
+Acknowledgments:
+Special thanks to the creators of Streamlit for providing the tools necessary to build this application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
